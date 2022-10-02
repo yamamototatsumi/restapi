@@ -9,3 +9,9 @@ export default {
   name: 'UserPage'
 }
 </script>
+
+<style>
+  .main{
+    text-align: center;
+  }
+</style>
